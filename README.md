@@ -14,3 +14,4 @@ No, you should not share the ".expo" folder. It does not contain any information
 
 Upon project creation, the ".expo" folder is already added to your ".gitignore" file.
 <img width="500" height="500" alt="adobe-express-qr-code" src="https://github.com/user-attachments/assets/59e3e57d-5922-4ea7-9ea5-ac97260c39f5" />
+https://github.com/aliimtiaz302/Mobile-App-Expo/blob/main/appjs.js
